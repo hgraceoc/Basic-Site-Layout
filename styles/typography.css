@@ -1,0 +1,59 @@
+
+body {
+    color: var(--pink);
+    font-family:'Cooper,Georgia,Times,Times New Roman,serif';
+}    
+
+.altFont {
+    font-family:'Ovo', Serif;
+    font-size: 1.5rem;
+}
+       
+h1 {
+    font-family:'Playfair Display', Serif;
+    font-size: 3em;
+    font-weight: bold;
+    padding: 0.5rem;
+    margin: 0.5rem;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 1rem;
+}
+
+.h1--pink {
+    color: var(--pink);
+}
+
+p {
+    font-family: 'Quattrocento Sans', Sans-Serif;;
+    line-height: 1.4;
+    font-size: 1.5rem;
+}
+
+li a {
+    font-family: 'Quattrocento Sans', Sans-Serif;;
+    text-decoration:none;
+    color: var(--pink);
+}
+
+.footer__links li a {
+    color: var(--pink);
+}
+
+.highlight {
+    color: var(--cream);
+}
+
+.title__h1 {
+    padding-top: 2rem;
+    margin: 1rem;
+    line-height: 1.5;
+    text-align: center;
+}
+
+
+.blueLink {
+     color:  rgb(69, 118, 153)
+}

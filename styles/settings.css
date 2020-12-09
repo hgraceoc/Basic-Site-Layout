@@ -1,0 +1,33 @@
+@font-face{
+    font-family: 'Ovo', serif;
+    font-weight: normal;
+    src:url("/fonts/Ovo/Ovo-Regular.ttf") format("truetype");
+}
+
+@font-face{
+    font-family:'Quattrocento Sans', sans-serif;
+    font-weight: normal;
+    src: url("/fonts/QuattrocentoSans/QuattrocentoSans-Regular.ttf") format("truetype");
+}
+
+@font-face{
+    font-family:'Goudy', serif;
+    font-weight: normal;
+    src: url("/fonts/Goudy/GoudyBookletter1911.ttf") format("truetype");
+}
+
+:root {
+    --cream: #fdfcf7;
+    --darkBlue:rgb(44, 88, 119);
+    --brown: rgb(252, 237, 213);
+    --teal: rgb(69, 118, 153);
+    --pink: rgb(221,191,205);
+}
+
+:root {
+    --p-font:'Quattrocento Sans', sans-serif;
+}
+
+body {
+    font-family: 'Ovo', serif;
+}
